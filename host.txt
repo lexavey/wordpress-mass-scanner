@@ -1,0 +1,2 @@
+http://www.localhost.com
+http://wordpressdomain.com
